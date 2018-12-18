@@ -7,6 +7,8 @@
    		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="style.css">
 		<title>film</title>
+		<link rel="icon" type="image/png" href="logo.png" />
+
 	</head>
 	
 	<body>
