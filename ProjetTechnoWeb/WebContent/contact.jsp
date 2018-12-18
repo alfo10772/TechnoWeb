@@ -7,6 +7,8 @@
    		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="style.css">
 		<title>Contacts</title>
+		<link rel="icon" type="image/png" href="logo.png" />
+
 	</head>
 	
 	<body>
@@ -19,7 +21,7 @@
       	
 		<div class="container">
 			<div class="row">
-				<p>Informations sur la société : 
+				<p>Informations sur la sociÃ©tÃ© : 
 				<br>
 				<br>
 				Adresse : 
@@ -28,7 +30,7 @@
 				Adresse mail :
 				<br>
 				<br>
-				Réseaux sociaux :
+				RÃ©seaux sociaux :
 				<br>
 				<br></p>
 			</div>
