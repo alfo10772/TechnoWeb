@@ -7,6 +7,8 @@
    		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="style.css">
 		<title>Welcome</title>
+		<link rel="icon" type="image/png" href="logo.png" />
+
 	</head>
 	
 	<body>
@@ -24,7 +26,7 @@
            		</div>
            		
            		<div class="col-md-6">
-           			<p>Actu série</p>
+           			<p>Actu sÃ©rie</p>
            		</div>
            	</div>
            	
@@ -37,7 +39,7 @@
            		</div>
            		
            		<div class="col-md-6">
-           			<p>Classement série</p>
+           			<p>Classement sÃ©rie</p>
            		</div>
            	</div>
            	
