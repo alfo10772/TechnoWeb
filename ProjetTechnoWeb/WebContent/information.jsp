@@ -129,6 +129,8 @@
 	
 	<script type="text/javascript" src="affichage.js">		
 	</script>
-	
+	<footer>
+		<%@ include file="footer.jsp" %>
+		</footer>
 	</body>
 </html>
