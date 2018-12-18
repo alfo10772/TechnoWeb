@@ -6,7 +6,7 @@
    		<meta name="viewport" content="width=device-width, initial-scale=1">
    		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="admin.css">
-		<title>Ajout film</title>
+		<title>Ajout cinema</title>
 	</head>
 	
 	<body>
@@ -20,18 +20,14 @@
       	<div class="container">
       		<div class="col-md-3 col-md-offset-2">
       			<div class="ajout">
-	      			<form name="ajoutFilm">
-	      				Titre du film :
+	      			<form name="ajoutCinema">
+	      				Nom du cinéma :
 	      				<br>
-	      				<input type="text" class="input" id="titre" placeholder="Titre">
+	      				<input type="text" class="input" id="nom" placeholder="Nom">
 	      				<br>
-	      				Auteur du film : 
+	      				Adresse du cinéma : 
 	      				<br>
-	      				<input type="text" class="input" id="auteur" placeholder="Auteur">
-	      				<br>
-	      				Année de sortie du film :
-	      				<br>
-	      				<input type="text" class="input" id="annee" placeholder="Année de sortie">
+	      				<input type="text" class="input" id="adresse" placeholder="Adresse">
 	      				<br>
 	      		
 	      				<input type="submit" class="button" value="Ajouter">
