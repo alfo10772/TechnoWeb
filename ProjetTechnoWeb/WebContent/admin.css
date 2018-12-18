@@ -1,0 +1,22 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+.search{
+	width: 80%;
+	border: 1px solid black;
+    border-radius: 4px;
+    margin: 10%;
+    padding:8px;
+}
+
+.ajout
+{
+	margin-left: auto;
+  	margin-right: auto;
+  	width:400px; 
+  	border: 2px solid RGB(190, 223, 255);
+  	padding: 10px;
+  	border-radius: 4px;
+}

@@ -32,19 +32,6 @@ p{
 	height: 30%;
 }
 
-/* .row {
-    margin-bottom: 0px;
-}
-
-.row [class^="col-"] {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #eee;
-    border: 1px solid #ddd;
-    background-color: rgba(86,61,124,.15);
-    border: 1px solid rgba(86,61,124,.2);
-} */
-
 .input{
 	width: 100%;
 	border: 1px solid black;
