@@ -7,6 +7,8 @@
    		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="style.css">
 		<title>Informations</title>
+		<link rel="icon" type="image/png" href="logo.png" />
+
 	</head>
 	
 	<body>
@@ -26,13 +28,13 @@
 				<div class="col-md-3">
 					<table class="table">
 						<tr>
-	       		       		<td id="modif">Prénom</td>
+	       		       		<td id="modif">PrÃ©nom</td>
 	       		       		<td id="modif"><img src="modifier.png" alt="Modifier" width="20" height="20" onclick="toggle_div(this,'modif_prenom');" id="modif"/></td>
 	       		        </tr>
 					</table>
 					
 					<div id="modif_prenom" style="display:none;">
-       		     		<p>Entrez votre prénom</p>
+       		     		<p>Entrez votre prÃ©nom</p>
        		     			<form action="">
        		      				<input type="text" name="prenom"  />
        		      				<input type="submit" value="Valider" />	
@@ -127,6 +129,8 @@
 	
 	<script type="text/javascript" src="affichage.js">		
 	</script>
-	
+	<footer>
+		<%@ include file="footer.jsp" %>
+		</footer>
 	</body>
 </html>
